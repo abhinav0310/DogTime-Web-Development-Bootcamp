@@ -1,1 +1,1 @@
-TinDog Starting Files
+DogTime is a Tinder clone for dogs. 
